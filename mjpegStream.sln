@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mjpegStream", "mjpegStream\mjpegStream.csproj", "{5E79D5D4-573B-40C6-95BF-7A20C3C22B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mjpegStream.UI.Avalonia", "mjpegStream.UI.Avalonia\mjpegStream.UI.Avalonia.csproj", "{0D2DB135-2C21-4978-9BD2-E3FD6390AF5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mjpegStream.Tests", "mjpegStream.Tests\mjpegStream.Tests.csproj", "{8787D127-11B5-49EB-BA09-A17AAB5319E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E79D5D4-573B-40C6-95BF-7A20C3C22B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E79D5D4-573B-40C6-95BF-7A20C3C22B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E79D5D4-573B-40C6-95BF-7A20C3C22B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E79D5D4-573B-40C6-95BF-7A20C3C22B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2DB135-2C21-4978-9BD2-E3FD6390AF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2DB135-2C21-4978-9BD2-E3FD6390AF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2DB135-2C21-4978-9BD2-E3FD6390AF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2DB135-2C21-4978-9BD2-E3FD6390AF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8787D127-11B5-49EB-BA09-A17AAB5319E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8787D127-11B5-49EB-BA09-A17AAB5319E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8787D127-11B5-49EB-BA09-A17AAB5319E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8787D127-11B5-49EB-BA09-A17AAB5319E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
